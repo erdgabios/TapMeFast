@@ -12,6 +12,7 @@
 		0615B3AD1E339833000F1267 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0615B3AB1E339833000F1267 /* Main.storyboard */; };
 		0615B3AF1E339833000F1267 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0615B3AE1E339833000F1267 /* Assets.xcassets */; };
 		0615B3B21E339833000F1267 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0615B3B01E339833000F1267 /* LaunchScreen.storyboard */; };
+		0615B3BA1E3398A2000F1267 /* ObelixProB.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0615B3B91E3398A2000F1267 /* ObelixProB.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0615B3AE1E339833000F1267 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0615B3B11E339833000F1267 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0615B3B31E339833000F1267 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0615B3B91E3398A2000F1267 /* ObelixProB.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = ObelixProB.ttf; path = "../../../../Downloads/Tap Me Fat Resources/ObelixProB.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		0615B3A61E339833000F1267 /* TapMeFast */ = {
 			isa = PBXGroup;
 			children = (
+				0615B3B91E3398A2000F1267 /* ObelixProB.ttf */,
 				0615B3A71E339833000F1267 /* AppDelegate.swift */,
 				0615B3A91E339833000F1267 /* ViewController.swift */,
 				0615B3AB1E339833000F1267 /* Main.storyboard */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0615B3BA1E3398A2000F1267 /* ObelixProB.ttf in Resources */,
 				0615B3B21E339833000F1267 /* LaunchScreen.storyboard in Resources */,
 				0615B3AF1E339833000F1267 /* Assets.xcassets in Resources */,
 				0615B3AD1E339833000F1267 /* Main.storyboard in Resources */,

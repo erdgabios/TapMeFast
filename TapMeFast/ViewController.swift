@@ -9,6 +9,14 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    @IBOutlet weak var timerLabel: UILabel!
+    @IBOutlet weak var scoreLabel: UILabel!
+    @IBOutlet weak var tapMeButton: UIButton!
+    @IBOutlet weak var startGameButton: UIButton!
+    
+    
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -19,6 +27,15 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    
+
+    @IBAction func tapMe(_ sender: Any) {
+    }
+    @IBAction func startGame(_ sender: Any) {
+    }
+    
+    
+    
 
 
 }
